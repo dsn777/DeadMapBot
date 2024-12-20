@@ -1,0 +1,12 @@
+commands:
+  search:
+    name: /search
+    lastname-callback:
+      buttontext: Поиск по фамилии
+      name: /find_by_lastname
+  start:
+    name: /start
+  support:
+    name: /support
+  add:
+    name: /add
